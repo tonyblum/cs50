@@ -1,0 +1,143 @@
+body{ 
+    background-image: url('http://www.a2zli.com/Chess-Mind.gif') !important; 
+    background-size: cover; 
+    font-size: 100% !important; 
+    font-style: bold !important; 
+    }  
+#page{ 
+    background-color: #CCCCFF !important; 
+} 
+#chess_board_dummy{ 
+    background-color: white !important; 
+} 
+.chess_board{ 
+    background-color: white !important; 
+    z-index: -1; 
+    position:relative; 
+} 
+#main_bc{ 
+    background-color: black !important; 
+} 
+.boardContainer{ 
+    background-color: white !important; 
+    z-index: -1; 
+    position:relative; 
+} 
+  
+#layout_top_container{ 
+    display: none; 
+} 
+  
+.players{ 
+    background-color: white; 
+    font-size: 100%; 
+} 
+  
+.playerscore{ 
+    display: none; 
+} 
+    
+#flag.us{ 
+    size: 300%; 
+} 
+  
+.playerrating{ 
+    font-size: 30px; 
+} 
+  
+#main_bc_header{ 
+    display: none; 
+} 
+.playername{ 
+    position: relative; 
+    font-size: 29px !important; 
+    font-family:"Courier";  
+} 
+.playerimg{ 
+    height: 35px !important; 
+    width: 35px !important; 
+    border-radius: 50%; 
+    position: relative; 
+    z-index: 20; 
+} 
+  
+#friendsectionpanel{ 
+    display: none; 
+} 
+  
+.cappytop_control{ 
+    display: none; 
+} 
+  
+#seekGraph{ 
+    display: none; 
+} 
+  
+.clearfix{ 
+    background-color: #CCCCFF !important; 
+} 
+  
+.newGameBottomLink{ 
+    display: none; 
+} 
+  
+#new_game_pane{ 
+    background-color: white !important; 
+} 
+
+.brd{ 
+    size: 50%; 
+    right: 150%; 
+      
+} 
+  
+.timerin{ 
+    size: 500% !important; 
+} 
+  
+.timerin.active{ 
+    size: 500% !important; 
+} 
+    
+#layout_sidebar_tabs_container{ 
+    height: 10px; 
+} 
+  
+#tabLabel{ 
+    display: none; 
+} 
+  
+#new_game_pane_create_button{ 
+    visibility: visible; 
+    z-index: 999; 
+    position:relative; 
+} 
+  
+.layoutBottomLinks{ 
+    display: none; 
+} 
+
+#game_container_splitter{ 
+    width: 30px; 
+    background-color: black !important; 
+    right: 10px !important;
+} 
+  
+.digitTabContent{ 
+    display:none !important; 
+    background: white !important; 
+    width: 1px !important; 
+    height: 1px! important; 
+    background-color: white !important; 
+} 
+   
+.tabLabel{ 
+    background-color:white; 
+} 
+  
+.ctype.bflip{ 
+    display: none; 
+} 
+#newgamebc{ 
+    background-color: white !important; 
+} 
